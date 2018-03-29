@@ -1,4 +1,5 @@
-# This is the code for the project "Eye Controlled Wheelchair"
+# This is the code for the project "Eye Controlled Wheelchair" done for Mini Project - 1 under Electronics Engineering
+# syllabus 
 #@uthor1: Nikhil Pinto
 #@uthor2: Sai Prathik
 
